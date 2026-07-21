@@ -1,25 +1,14 @@
-# JSOMER Journal Trends
+# JSOMER Journal Trends — final dashboard package
 
-Public dashboard for the Journal of Social Media Research.
+Upload the complete contents of this package to the root of the GitHub repository. Keep `journal-data.json` inside the `data` folder.
 
-## Upload to GitHub
-
-Upload the following items to the root of the `jsomer-journal-trends` repository:
+## Repository structure
 
 - `index.html`
 - `styles.css`
 - `script.js`
-- the complete `data` folder
+- `data/journal-data.json`
 
-Do not upload the original OJS reports. They contain private workflow and contact data.
+Do not upload the original OJS or Web of Science exports. They contain private editorial or contact data.
 
-## Data scope
-
-The dashboard includes only records marked `Published` in the supplied OJS Articles Report. Usage indicators come from the supplied PKP COUNTER-ready report.
-
-- Article views: usage records with Type = Article.
-- PDF file requests: PDF usage records linked to a published article title.
-- Countries represented: countries reported in published-author metadata.
-- International collaboration: published articles with author affiliations in more than one country.
-
-Usage data are descriptive and are not measures of scholarly quality or citation impact.
+The package includes verified OJS publication/usage indicators, aggregate peer-review activity, and verified Web of Science citation reach. Platforms Studied, DOI Coverage, ORCID Coverage, acceptance rate, reviewer identities, reviewer recommendations, and uncertain editorial-speed indicators are intentionally excluded. Research Landscape and Methodological Diversity are also withheld until every published item has been manually coded under a documented classification protocol.
