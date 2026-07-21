@@ -157,7 +157,7 @@
       "articles": 2
     },
     {
-      "country": "Belgium",
+      "country": "BE",
       "authors": 1,
       "articles": 1
     },
@@ -177,7 +177,7 @@
       "articles": 1
     },
     {
-      "country": "Italy",
+      "country": "IT",
       "authors": 1,
       "articles": 1
     },
@@ -278,7 +278,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -341,7 +341,7 @@
         "Chrystian Johnson",
         "Briana Martinez"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 3980,
@@ -457,7 +457,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -1192,7 +1192,7 @@
       "authors": [
         "Giovanna Henery"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 728,
@@ -1208,7 +1208,7 @@
         "Chrystian Johnson",
         "Briana Martinez"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 3980,
@@ -1223,7 +1223,7 @@
         "Katharine Starling",
         "Oliver Mason"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 1073,
@@ -1259,7 +1259,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -1341,7 +1341,7 @@
         "Servet Üztemur",
         "Chung-Ying Lin"
       ],
-      "articleType": "Original Research Article",
+      "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 1052,
@@ -1425,33 +1425,6 @@
     "Authors retain copyright",
     "CC BY-NC-ND 4.0"
   ],
-  "peerReview": {
-    "dataUpdated": "July 21, 2026",
-    "manuscriptsEnteringPeerReview": 65,
-    "reviewersInvited": 442,
-    "reviewInvitations": 540,
-    "completedReports": 190,
-    "medianInvitationToCompletionDays": 6.7,
-    "completedWithin21DaysPct": 95.3,
-    "completedByDeadlinePct": 85.8,
-    "annualActivity": [
-      {
-        "year": 2024,
-        "invitations": 71,
-        "completed": 26
-      },
-      {
-        "year": 2025,
-        "invitations": 348,
-        "completed": 121
-      },
-      {
-        "year": 2026,
-        "invitations": 121,
-        "completed": 43
-      }
-    ]
-  },
   "wos": {
     "dataUpdated": "July 20, 2026",
     "citationLinks": 137,
@@ -1636,5 +1609,32 @@
       }
     ],
     "methodNote": "Citation links are summed across verified JSOMER records carrying the official DOI prefix 10.29329/jsomer. Unique citing documents are deduplicated by Web of Science accession number. One citing document may cite more than one JSOMER article."
+  },
+  "peerReview": {
+    "dataUpdated": "July 21, 2026",
+    "manuscriptsEnteringPeerReview": 65,
+    "reviewersInvited": 442,
+    "reviewInvitations": 540,
+    "completedReports": 190,
+    "medianInvitationToCompletionDays": 6.7,
+    "completedWithin21DaysPct": 95.3,
+    "completedByDeadlinePct": 85.8,
+    "annualActivity": [
+      {
+        "year": 2024,
+        "invitations": 71,
+        "completed": 26
+      },
+      {
+        "year": 2025,
+        "invitations": 348,
+        "completed": 121
+      },
+      {
+        "year": 2026,
+        "invitations": 121,
+        "completed": 43
+      }
+    ]
   }
 }
