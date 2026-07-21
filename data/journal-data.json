@@ -157,7 +157,7 @@
       "articles": 2
     },
     {
-      "country": "BE",
+      "country": "Belgium",
       "authors": 1,
       "articles": 1
     },
@@ -177,7 +177,7 @@
       "articles": 1
     },
     {
-      "country": "IT",
+      "country": "Italy",
       "authors": 1,
       "articles": 1
     },
@@ -278,7 +278,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -341,7 +341,7 @@
         "Chrystian Johnson",
         "Briana Martinez"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 3980,
@@ -457,7 +457,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -1192,7 +1192,7 @@
       "authors": [
         "Giovanna Henery"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 728,
@@ -1208,7 +1208,7 @@
         "Chrystian Johnson",
         "Briana Martinez"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 3980,
@@ -1223,7 +1223,7 @@
         "Katharine Starling",
         "Oliver Mason"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 1073,
@@ -1259,7 +1259,7 @@
         "Amber Ovens",
         "Eleanor Chatburn"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 6095,
@@ -1341,7 +1341,7 @@
         "Servet Üztemur",
         "Chung-Ying Lin"
       ],
-      "articleType": "Original Article",
+      "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
       "views": 1052,
@@ -1424,5 +1424,217 @@
     "At least two independent reviewers",
     "Authors retain copyright",
     "CC BY-NC-ND 4.0"
-  ]
+  ],
+  "peerReview": {
+    "dataUpdated": "July 21, 2026",
+    "manuscriptsEnteringPeerReview": 65,
+    "reviewersInvited": 442,
+    "reviewInvitations": 540,
+    "completedReports": 190,
+    "medianInvitationToCompletionDays": 6.7,
+    "completedWithin21DaysPct": 95.3,
+    "completedByDeadlinePct": 85.8,
+    "annualActivity": [
+      {
+        "year": 2024,
+        "invitations": 71,
+        "completed": 26
+      },
+      {
+        "year": 2025,
+        "invitations": 348,
+        "completed": 121
+      },
+      {
+        "year": 2026,
+        "invitations": 121,
+        "completed": 43
+      }
+    ]
+  },
+  "wos": {
+    "dataUpdated": "July 20, 2026",
+    "citationLinks": 137,
+    "uniqueCitingDocuments": 61,
+    "citedJsomerArticles": 20,
+    "citingSourceJournals": 40,
+    "countriesRegions": 35,
+    "citingDocumentsByYear": [
+      {
+        "year": 2025,
+        "documents": 26
+      },
+      {
+        "year": 2026,
+        "documents": 35
+      }
+    ],
+    "mostCitedArticles": [
+      {
+        "title": "Problematic smartphone use, depression symptoms, and fear of missing out: Can reasons for smartphone use mediate the relationship? A longitudinal approach",
+        "doi": "10.29329/jsomer.3",
+        "url": "https://doi.org/10.29329/jsomer.3",
+        "year": 2024,
+        "citations": 22
+      },
+      {
+        "title": "Exploration of the association between social media addiction, self-esteem, self-compassion and loneliness",
+        "doi": "10.29329/jsomer.2",
+        "url": "https://doi.org/10.29329/jsomer.2",
+        "year": 2024,
+        "citations": 19
+      },
+      {
+        "title": "Pathways to social media addiction: Examining its prevalence, and predictive factors among Ghanaian youths",
+        "doi": "10.29329/jsomer.9",
+        "url": "https://doi.org/10.29329/jsomer.9",
+        "year": 2024,
+        "citations": 17
+      },
+      {
+        "title": "Association between problematic social media use and physical activity: the mediating roles of nomophobia and the tendency to avoid physical activity",
+        "doi": "10.29329/jsomer.4",
+        "url": "https://doi.org/10.29329/jsomer.4",
+        "year": 2024,
+        "citations": 14
+      },
+      {
+        "title": "Relationship stress and sleep: examining the mediation of social media use for objective and subjective sleep quality",
+        "doi": "10.29329/jsomer.15",
+        "url": "https://doi.org/10.29329/jsomer.15",
+        "year": 2025,
+        "citations": 12
+      },
+      {
+        "title": "Weight stigma exposure inventory (WeSEI):  Adaptation to Turkish culture, validity and reliability study",
+        "doi": "10.29329/jsomer.27",
+        "url": "https://doi.org/10.29329/jsomer.27",
+        "year": 2025,
+        "citations": 10
+      },
+      {
+        "title": "YouTube addiction scale (YAS): Adaptation to Turkish culture, validity and reliability study",
+        "doi": "10.29329/jsomer.20",
+        "url": "https://doi.org/10.29329/jsomer.20",
+        "year": 2025,
+        "citations": 10
+      },
+      {
+        "title": "Motives for social media use in adults: associations with platform-specific use, psychological distress, and problematic engagement",
+        "doi": "10.29329/jsomer.45",
+        "url": "https://doi.org/10.29329/jsomer.45",
+        "year": 2025,
+        "citations": 8
+      },
+      {
+        "title": "Weight stigma exposure inventory (WeSEI): Validity and reliability study of the Chinese version in Hong Kong",
+        "doi": "10.29329/jsomer.47",
+        "url": "https://doi.org/10.29329/jsomer.47",
+        "year": 2025,
+        "citations": 7
+      },
+      {
+        "title": "What is the impact of viewing social media style images in different contexts on body satisfaction and body size estimation?",
+        "doi": "10.29329/jsomer.33",
+        "url": "https://doi.org/10.29329/jsomer.33",
+        "year": 2025,
+        "citations": 4
+      }
+    ],
+    "topCitingSources": [
+      {
+        "source": "International Journal of Mental Health Promotion",
+        "documents": 7
+      },
+      {
+        "source": "Current Psychology",
+        "documents": 4
+      },
+      {
+        "source": "Acta Psychologica",
+        "documents": 4
+      },
+      {
+        "source": "International Journal of Human-Computer Interaction",
+        "documents": 3
+      },
+      {
+        "source": "Cyberpsychology, Behavior, and Social Networking",
+        "documents": 2
+      },
+      {
+        "source": "Body Image",
+        "documents": 2
+      },
+      {
+        "source": "Journal of Eating Disorders",
+        "documents": 2
+      },
+      {
+        "source": "Computers in Human Behavior Reports",
+        "documents": 2
+      },
+      {
+        "source": "International Journal of Mental Health and Addiction",
+        "documents": 2
+      },
+      {
+        "source": "Psychology, Health & Medicine",
+        "documents": 2
+      }
+    ],
+    "researchAreas": [
+      {
+        "area": "Psychology",
+        "documents": 28
+      },
+      {
+        "area": "Psychiatry",
+        "documents": 19
+      },
+      {
+        "area": "Public, Environmental & Occupational Health",
+        "documents": 10
+      },
+      {
+        "area": "Computer Science",
+        "documents": 5
+      },
+      {
+        "area": "Engineering",
+        "documents": 5
+      },
+      {
+        "area": "Substance Abuse",
+        "documents": 3
+      },
+      {
+        "area": "Health Care Sciences & Services",
+        "documents": 3
+      },
+      {
+        "area": "Science & Technology – Other Topics",
+        "documents": 2
+      }
+    ],
+    "indexes": [
+      {
+        "index": "Social Science Citation Index (SSCI)",
+        "documents": 45
+      },
+      {
+        "index": "Science Citation Index Expanded (SCIE)",
+        "documents": 23
+      },
+      {
+        "index": "Emerging Sources Citation Index (ESCI)",
+        "documents": 9
+      },
+      {
+        "index": "Arts & Humanities Citation Index (A&HCI)",
+        "documents": 1
+      }
+    ],
+    "methodNote": "Citation links are summed across verified JSOMER records carrying the official DOI prefix 10.29329/jsomer. Unique citing documents are deduplicated by Web of Science accession number. One citing document may cite more than one JSOMER article."
+  }
 }
