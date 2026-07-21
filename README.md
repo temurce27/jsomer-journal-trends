@@ -1,14 +1,5 @@
-# JSOMER Journal Trends — final dashboard package
+# JSOMER Journal Trends — Premium Academic Editorial Design
 
-Upload the complete contents of this package to the root of the GitHub repository. Keep `journal-data.json` inside the `data` folder.
+Upload `index.html`, `styles.css`, and `script.js` to the repository root. Upload `journal-data.json` inside the existing `data` folder.
 
-## Repository structure
-
-- `index.html`
-- `styles.css`
-- `script.js`
-- `data/journal-data.json`
-
-Do not upload the original OJS or Web of Science exports. They contain private editorial or contact data.
-
-The package includes verified OJS publication/usage indicators, aggregate peer-review activity, and verified Web of Science citation reach. Platforms Studied, DOI Coverage, ORCID Coverage, acceptance rate, reviewer identities, reviewer recommendations, and uncertain editorial-speed indicators are intentionally excluded. Research Landscape and Methodological Diversity are also withheld until every published item has been manually coded under a documented classification protocol.
+The redesign places Web of Science citation reach in the hero area and again as the first full analytical section. It preserves the verified OJS, WoS, and aggregate peer-review data.
