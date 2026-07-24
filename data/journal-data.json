@@ -4,7 +4,7 @@
     "abbreviation": "JSOMER",
     "issn": "3062-0945",
     "doiPrefix": "10.29329",
-    "dataUpdated": "July 21, 2026",
+    "dataUpdated": "July 24, 2026",
     "coverage": "December 2024 through July 2026",
     "sourceNote": "Published-article metadata and COUNTER-ready OJS usage statistics.",
     "latestUsageMonth": "2026-07"
@@ -1608,7 +1608,9 @@
         "documents": 1
       }
     ],
-    "methodNote": "Citation links are summed across verified JSOMER records carrying the official DOI prefix 10.29329/jsomer. Unique citing documents are deduplicated by Web of Science accession number. One citing document may cite more than one JSOMER article."
+    "methodNote": "Citation links are summed across verified JSOMER records carrying the official DOI prefix 10.29329/jsomer. Unique citing documents are deduplicated by Web of Science accession number. One citing document may cite more than one JSOMER article.",
+    "averageCitationsPerPublishedArticle": 2.74,
+    "averageCitationsPerCitedArticle": 6.85
   },
   "peerReview": {
     "dataUpdated": "July 21, 2026",
@@ -1636,5 +1638,1031 @@
         "completed": 43
       }
     ]
+  },
+  "scopus": {
+    "dataUpdated": "July 24, 2026",
+    "citationLinks": 135,
+    "uniqueCitingDocuments": 70,
+    "citedJsomerArticles": 22,
+    "citingSourceJournals": 49,
+    "averageCitationsPerPublishedArticle": 2.7,
+    "averageCitationsPerCitedArticle": 6.14,
+    "citingDocumentsByYear": [
+      {
+        "year": 2025,
+        "documents": 29
+      },
+      {
+        "year": 2026,
+        "documents": 41
+      }
+    ],
+    "documentTypes": [
+      {
+        "type": "Article",
+        "documents": 62
+      },
+      {
+        "type": "Conference paper",
+        "documents": 5
+      },
+      {
+        "type": "Book chapter",
+        "documents": 3
+      }
+    ],
+    "topCitingSources": [
+      {
+        "source": "International Journal of Mental Health Promotion",
+        "documents": 7
+      },
+      {
+        "source": "Acta Psychologica",
+        "documents": 4
+      },
+      {
+        "source": "Current Psychology",
+        "documents": 4
+      },
+      {
+        "source": "International Journal of Human-Computer Interaction",
+        "documents": 3
+      },
+      {
+        "source": "Body Image",
+        "documents": 2
+      },
+      {
+        "source": "Cyberpsychology, Behavior, and Social Networking",
+        "documents": 2
+      },
+      {
+        "source": "Computers in Human Behavior Reports",
+        "documents": 2
+      },
+      {
+        "source": "Journal of Health Psychology",
+        "documents": 2
+      },
+      {
+        "source": "International Journal of Mental Health and Addiction",
+        "documents": 2
+      },
+      {
+        "source": "Journal of Eating Disorders",
+        "documents": 2
+      }
+    ],
+    "mostCitedArticles": [
+      {
+        "title": "Problematic smartphone use, depression symptoms, and fear of missing out: Can reasons for smartphone use mediate the relationship? A longitudinal approach",
+        "authors": "Stirnberg, J.; Margraf, J.; Precht, L.-M.; Brailovskaia, J.",
+        "year": 2024,
+        "citations": 21,
+        "url": "https://www.scopus.com/pages/publications/105003601694?origin=resultslist",
+        "eid": "2-s2.0-105003601694"
+      },
+      {
+        "title": "Exploration of the association between social media addiction, self-esteem, self-compassion and loneliness",
+        "authors": "Mitropoulou, E.",
+        "year": 2024,
+        "citations": 18,
+        "url": "https://www.scopus.com/pages/publications/105007889801?origin=resultslist",
+        "eid": "2-s2.0-105007889801"
+      },
+      {
+        "title": "Pathways to social media addiction: Examining its prevalence, and predictive factors among Ghanaian youths",
+        "authors": "Ahorsu, D.K.",
+        "year": 2024,
+        "citations": 18,
+        "url": "https://www.scopus.com/pages/publications/105003873974?origin=resultslist",
+        "eid": "2-s2.0-105003873974"
+      },
+      {
+        "title": "Association between problematic social media use and physical activity: The mediating roles of nomophobia and the tendency to avoid physical activity",
+        "authors": "Huang, P.-C.; Geusens, F.; Tu, H.-F.; Fung, X.C.C.; Chen, C.-Y.",
+        "year": 2024,
+        "citations": 13,
+        "url": "https://www.scopus.com/pages/publications/105009038667?origin=resultslist",
+        "eid": "2-s2.0-105009038667"
+      },
+      {
+        "title": "Relationship stress and sleep: examining the mediation of social media use for objective and subjective sleep quality",
+        "authors": "Langlais, M.; Bigalke, J.; Bigalke, J.",
+        "year": 2025,
+        "citations": 12,
+        "url": "https://www.scopus.com/pages/publications/105009037942?origin=resultslist",
+        "eid": "2-s2.0-105009037942"
+      },
+      {
+        "title": "Weight stigma exposure inventory (WeSEI): adaptation to Turkish culture, validity and reliability study",
+        "authors": "Çarkıt, C.; Gan, W.Y.; Koç, H.; Bevan, N.; Avcı, E.; Lin, Y.C.",
+        "year": 2025,
+        "citations": 10,
+        "url": "https://www.scopus.com/pages/publications/105008072505?origin=resultslist",
+        "eid": "2-s2.0-105008072505"
+      },
+      {
+        "title": "YouTube addiction scale (YAS): Adaptation to Turkish culture, validity and reliability study",
+        "authors": "Dinç, E.; Ruckwongpatr, K.; Karaduman, A.; Chen, I.H.; Karaduman, A.; Wang, X.L.",
+        "year": 2025,
+        "citations": 9,
+        "url": "https://www.scopus.com/pages/publications/105009146811?origin=resultslist",
+        "eid": "2-s2.0-105009146811"
+      },
+      {
+        "title": "Weight stigma exposure inventory (WeSEI): Validity and reliability study of the Chinese version in Hong Kong",
+        "authors": "Chen, J.-K.; Rhodes, O.; Fan, C.-W.; O'Brien, K.M.; Gökalp, A.; Degirmenci, N.; Lin, C.-Y.",
+        "year": 2025,
+        "citations": 8,
+        "url": "https://www.scopus.com/pages/publications/105018874320?origin=resultslist",
+        "eid": "2-s2.0-105018874320"
+      },
+      {
+        "title": "Motives for social media use in adults: Associations with platform-specific use, psychological distress, and problematic engagement",
+        "authors": "Wolgast, M.; Adler, H.; Nurali Wolgast, S.",
+        "year": 2025,
+        "citations": 7,
+        "url": "https://www.scopus.com/pages/publications/105021029486?origin=resultslist",
+        "eid": "2-s2.0-105021029486"
+      },
+      {
+        "title": "What is the impact of viewing social media style images in different contexts on body satisfaction and body size estimation?",
+        "authors": "Knight, R.; Preston, C.",
+        "year": 2025,
+        "citations": 4,
+        "url": "https://www.scopus.com/pages/publications/105018877380?origin=resultslist",
+        "eid": "2-s2.0-105018877380"
+      },
+      {
+        "title": "Social Media Fatigue Scale: Adaptation to Turkish culture, validity and reliability study",
+        "authors": "Gökalp, A.; Fan, C.-W.; İnel, Y.; Chen, I.-H.",
+        "year": 2024,
+        "citations": 3,
+        "url": "https://www.scopus.com/pages/publications/105010081262?origin=resultslist",
+        "eid": "2-s2.0-105010081262"
+      },
+      {
+        "title": "New Love, Old Stereotypes: Ageism in Social Media Discourses on the Golden Bachelor",
+        "authors": "Ménard, A.; Chasteen, A.; van Gameren, M.; Bedri, N.; Yang, M.; Belanger, C.; Fraser, S.",
+        "year": 2025,
+        "citations": 2,
+        "url": "https://www.scopus.com/pages/publications/105018876749?origin=resultslist",
+        "eid": "2-s2.0-105018876749"
+      },
+      {
+        "title": "Adaptation of perceived social media literacy scale to Turkish culture: The case of educators",
+        "authors": "Polat, M.; Kara, M.; Oppong, D.; Ahorsu, D.K.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105034135245?origin=resultslist",
+        "eid": "2-s2.0-105034135245"
+      },
+      {
+        "title": "Comparison of commercial decoder-only large language models for multilingual sentiment analysis of short text",
+        "authors": "Burns, J.; Kelsey, T.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105039253934?origin=resultslist",
+        "eid": "2-s2.0-105039253934"
+      },
+      {
+        "title": "Disinformation and democratic threats: Insights from the 2019 Canadian federal election",
+        "authors": "Louden, R.; Frank, R.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105041740960?origin=resultslist",
+        "eid": "2-s2.0-105041740960"
+      },
+      {
+        "title": "I have so much FoMO! An exploration into psychological variables influencing fear of missing out and Snapchat intensity",
+        "authors": "Roy, D.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105039254529?origin=resultslist",
+        "eid": "2-s2.0-105039254529"
+      },
+      {
+        "title": "Information and communication technologies: The expansion of individual freedom and the gradual conquest of the universal",
+        "authors": "Sfakianos, N.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105041694916?origin=resultslist",
+        "eid": "2-s2.0-105041694916"
+      },
+      {
+        "title": "Milestones and Mindsets: How Social Media Shapes Young Adults’ Expectations and Emotional Well-Being",
+        "authors": "O'Connell, R.; Daruwala, N.A.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105043951877?origin=resultslist",
+        "eid": "2-s2.0-105043951877"
+      },
+      {
+        "title": "My socials told me i have adhd: A crosssectional study of information about adhd symptomatology on social media",
+        "authors": "Hulsizer, B.; Passaro, F.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105038755710?origin=resultslist",
+        "eid": "2-s2.0-105038755710"
+      },
+      {
+        "title": "Social media sentiment on ChatGPT in education: Ethical implications",
+        "authors": "Elhersh, A.; Alqawasmeh, F.",
+        "year": 2024,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105012912591?origin=resultslist",
+        "eid": "2-s2.0-105012912591"
+      },
+      {
+        "title": "The Relationship Between Election-Related Social Media Activism and College Students’ Negative Future Expectancy",
+        "authors": "Waller, Z.; Yu, A.G.; Kadotani, K.M.; McMichael, S.L.; Kwan, V.S.Y.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105043932788?origin=resultslist",
+        "eid": "2-s2.0-105043932788"
+      },
+      {
+        "title": "TikTok Narratives of Global Social Anxieties: FoMO, FoBO and Fear of Being Seen",
+        "authors": "Castaldi, M.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105034977207?origin=resultslist",
+        "eid": "2-s2.0-105034977207"
+      }
+    ],
+    "citingDocuments": [
+      {
+        "title": "Taking the first step towards better mental health: Reduced daily smartphone use leads to less problematic smartphone use, fear of missing out, depression and dysfunctional emotion regulation",
+        "authors": "Weingarten J.; Mertens F.; Brickau D.; Kramm R.J.; Margraf J.; Precht L.-M.; Weingarten A.; Brailovskaia J.",
+        "year": 2026,
+        "source": "Acta Psychologica",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.actpsy.2026.106735",
+        "url": "https://www.scopus.com/pages/publications/105034888074?origin=resultslist",
+        "eid": "2-s2.0-105034888074"
+      },
+      {
+        "title": "Internet addiction and related factors among high school students in Vietnam",
+        "authors": "Nguyen T.T.T.; Nguyen N.M.H.; Pham N.H.; Tran L.C.; Nghia T.T.; Nguyen D.T.",
+        "year": 2026,
+        "source": "Annali di Igiene Medicina Preventiva e di Comunita ",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.7416/AI.2026.17913",
+        "url": "https://www.scopus.com/pages/publications/105044087647?origin=resultslist",
+        "eid": "2-s2.0-105044087647"
+      },
+      {
+        "title": "Mental health problems as mediators between self-esteem and internet addiction among adolescents",
+        "authors": "Nguyen D.T.; Hua T.D.; Nguyen T.T.T.; Pham N.H.; Nguyen H.N.; Ho C.S.H.; Tran-Chi V.-L.; Lin K.; Lin C.-Y.",
+        "year": 2026,
+        "source": "BMC Public Health",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1186/s12889-026-27258-8",
+        "url": "https://www.scopus.com/pages/publications/105039682357?origin=resultslist",
+        "eid": "2-s2.0-105039682357"
+      },
+      {
+        "title": "Scrolling past bedtime? Examining problematic social media use and sleep quality via bedtime procrastination and the moderating role of mindfulness",
+        "authors": "Barcenas J.A.; Serrano D.M.; Williams P.S.",
+        "year": 2026,
+        "source": "Behaviour and Information Technology",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/0144929X.2026.2692094",
+        "url": "https://www.scopus.com/pages/publications/105043165013?origin=resultslist",
+        "eid": "2-s2.0-105043165013"
+      },
+      {
+        "title": "When social media becomes a mirror: A serial mediation path from social appearance anxiety to social media fatigue among young adults",
+        "authors": "Türk-Kurtça T.; Doğru M.C.",
+        "year": 2026,
+        "source": "Body Image",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.bodyim.2026.102139",
+        "url": "https://www.scopus.com/pages/publications/105042052139?origin=resultslist",
+        "eid": "2-s2.0-105042052139"
+      },
+      {
+        "title": "Demographic and Behavioral Correlates of Social Media Addiction and Loneliness Among Young Adults in Kyrgyzstan",
+        "authors": "Ayhan N.; Eroğlu B.",
+        "year": 2026,
+        "source": "Brain and Behavior",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1002/brb3.71166",
+        "url": "https://www.scopus.com/pages/publications/105026372451?origin=resultslist",
+        "eid": "2-s2.0-105026372451"
+      },
+      {
+        "title": "AI-Driven Content Quality Beyond Technological Convenience: A Dual-Track Model of Sustainable Architectural Heritage Engagement",
+        "authors": "Chai J.-X.; Shen S.-T.",
+        "year": 2026,
+        "source": "Buildings",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.3390/buildings16061227",
+        "url": "https://www.scopus.com/pages/publications/105034128145?origin=resultslist",
+        "eid": "2-s2.0-105034128145"
+      },
+      {
+        "title": "Psychometric validation of selected scales assessing mental health conditions among Ghanaian youth",
+        "authors": "Ahorsu D.K.; Oppong D.; Lin C.-Y.",
+        "year": 2026,
+        "source": "Cambridge Prisms: Global Mental Health",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1017/gmh.2026.10128",
+        "url": "https://www.scopus.com/pages/publications/105028279357?origin=resultslist",
+        "eid": "2-s2.0-105028279357"
+      },
+      {
+        "title": "Potential effects of a gaming restriction policy on problematic use of the internet and time spent on the internet among Chinese adolescents: A longitudinal study",
+        "authors": "Chen C.-Y.; Chen I.-H.; Hou W.-L.; Chou P.-Y.; Üztemur S.; Chen X.; Huang R.-Y.; Potenza M.N.; Demetrovics Z.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2026,
+        "source": "Computers in Human Behavior",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.chb.2026.108977",
+        "url": "https://www.scopus.com/pages/publications/105033632793?origin=resultslist",
+        "eid": "2-s2.0-105033632793"
+      },
+      {
+        "title": "Comparing social media users and non-users in Germany: Sense of control, addictive social media use, stress and insomnia symptoms",
+        "authors": "Brailovskaia J.; Precht L.-M.; Margraf J.",
+        "year": 2026,
+        "source": "Computers in Human Behavior Reports",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.chbr.2026.100933",
+        "url": "https://www.scopus.com/pages/publications/105041746423?origin=resultslist",
+        "eid": "2-s2.0-105041746423"
+      },
+      {
+        "title": "Adverse childhood experiences and digital escape: can perceived social support diminish the pull of problematic pornography use among youth?",
+        "authors": "Onu D.U.; Adangozi C.P.; Nnadozie E.E.; Ajah A.C.; Igwe E.J.",
+        "year": 2026,
+        "source": "Current Psychology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s12144-025-08526-z",
+        "url": "https://www.scopus.com/pages/publications/105038302829?origin=resultslist",
+        "eid": "2-s2.0-105038302829"
+      },
+      {
+        "title": "The longitudinal association between parent-child cohesion and problematic internet use among early adolescents: A chain mediation model",
+        "authors": "Ben C.; Wang X.; Liu Y.",
+        "year": 2026,
+        "source": "Current Psychology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s12144-026-09647-9",
+        "url": "https://www.scopus.com/pages/publications/105043308865?origin=resultslist",
+        "eid": "2-s2.0-105043308865"
+      },
+      {
+        "title": "The mediating role of social media addiction in the relationship between cyberchondria and anxiety symptoms",
+        "authors": "Tapan M.G.; Katmer A.N.; Demi̇rel A.C.; Aka M.",
+        "year": 2026,
+        "source": "Current Psychology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s12144-026-09764-5",
+        "url": "https://www.scopus.com/pages/publications/105044668286?origin=resultslist",
+        "eid": "2-s2.0-105044668286"
+      },
+      {
+        "title": "Social Media Use and Body Checking Behaviors: The Roles of Stress, Emotional Eating, and Self-Esteem",
+        "authors": "Korkomaz A.; Jamal S.; Hakim M.; Zeeni N.",
+        "year": 2026,
+        "source": "Cyberpsychology, Behavior, and Social Networking",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1177/21522715261430510",
+        "url": "https://www.scopus.com/pages/publications/105037562207?origin=resultslist",
+        "eid": "2-s2.0-105037562207"
+      },
+      {
+        "title": "The translation and validation of the YouTube addiction scale in modern standard Arabic among emerging and young adults",
+        "authors": "Jahrami H.; Trabelsi K.; Husain W.; Ghazzawi H.; Saif Z.; Ammar A.; Pakpour A.H.",
+        "year": 2026,
+        "source": "Discover Mental Health",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s44192-026-00498-1",
+        "url": "https://www.scopus.com/pages/publications/105042307890?origin=resultslist",
+        "eid": "2-s2.0-105042307890"
+      },
+      {
+        "title": "Psychometric Properties and Measurement Invariance of the Malay Version of the YouTube Addiction Scale Among University Students",
+        "authors": "Nguyen T.T.B.; Gan W.Y.; Huang Y.-T.; Tung S.E.H.; Poon W.C.; Siaw Y.-L.; Tham W.S.; Griffiths M.D.; Pakpour A.H.; Lin C.-Y.; Huang P.-C.",
+        "year": 2026,
+        "source": "Evaluation and the Health Professions",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1177/01632787261419171",
+        "url": "https://www.scopus.com/pages/publications/105029184262?origin=resultslist",
+        "eid": "2-s2.0-105029184262"
+      },
+      {
+        "title": "Exploring the formation of learning burnout among college students in AI context: a serial mediation mechanism of AI dependence and addiction based on I-PACE model",
+        "authors": "Lan Y.; Liu S.; Chen H.",
+        "year": 2026,
+        "source": "Frontiers in Computer Science",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.3389/fcomp.2026.1756441",
+        "url": "https://www.scopus.com/pages/publications/105033045275?origin=resultslist",
+        "eid": "2-s2.0-105033045275"
+      },
+      {
+        "title": "Negative childhood experiences and internet addiction in adolescents: the mediating role of perceived social support and resilience",
+        "authors": "Ebrahimian S.; Rostami M.; Ehyaie S.; Ghalandary P.",
+        "year": 2026,
+        "source": "International Journal of Adolescence and Youth",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1080/02673843.2025.2608765",
+        "url": "https://www.scopus.com/pages/publications/105026268069?origin=resultslist",
+        "eid": "2-s2.0-105026268069"
+      },
+      {
+        "title": "Adaptation of the AI-Related Conspiracy Beliefs Scale for Use in Turkey",
+        "authors": "Turgut D.; Kunuroglu F.; Prooijen J.-W.V.",
+        "year": 2026,
+        "source": "International Journal of Human-Computer Interaction",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/10447318.2025.2611144",
+        "url": "https://www.scopus.com/pages/publications/105041712368?origin=resultslist",
+        "eid": "2-s2.0-105041712368"
+      },
+      {
+        "title": "Psychometric Evaluation of the Trait-State FoMO Scale in a Turkish University Sample: Validity, Reliability, and Invariance Across Groups",
+        "authors": "Gezgin D.M.; Lin C.-Y.; Kartol A.",
+        "year": 2026,
+        "source": "International Journal of Human-Computer Interaction",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/10447318.2026.2619923",
+        "url": "https://www.scopus.com/pages/publications/105029496847?origin=resultslist",
+        "eid": "2-s2.0-105029496847"
+      },
+      {
+        "title": "The Comparative Trap: How Social Comparison Orientation Drives Problematic Generative AI (GenAI) Use",
+        "authors": "Zhang X.; Lee J.",
+        "year": 2026,
+        "source": "International Journal of Human-Computer Interaction",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/10447318.2026.2668619",
+        "url": "https://www.scopus.com/pages/publications/105039240827?origin=resultslist",
+        "eid": "2-s2.0-105039240827"
+      },
+      {
+        "title": "Associations of Mentally Active Versus Passive Sedentary Behavior with Smartphone Addiction in Adults",
+        "authors": "Masoud A.A.",
+        "year": 2026,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2026.078593",
+        "url": "https://www.scopus.com/pages/publications/105040337035?origin=resultslist",
+        "eid": "2-s2.0-105040337035"
+      },
+      {
+        "title": "Problematic ChatGPT Use Scale: AI-Human Collaboration or Unraveling the Dark Side of ChatGPT",
+        "authors": "Maral S.; Naycı N.; Bilmez H.; Erdemir E.İ.; Satici S.A.",
+        "year": 2026,
+        "source": "International Journal of Mental Health and Addiction",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s11469-025-01509-y",
+        "url": "https://www.scopus.com/pages/publications/105007898235?origin=resultslist",
+        "eid": "2-s2.0-105007898235"
+      },
+      {
+        "title": "Problematic Social Media Use and Mental Distress among Indonesian and Taiwanese University Students: Comparing Problematic Generalized Use and Specific Problematic YouTube Use",
+        "authors": "Nurmala I.; Muthmainnah M.; Hsieh G.-J.; Salim L.A.; Nadia A.; Devi Y.P.; Chen C.-Y.; Huang R.-Y.; Chen J.-S.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2026,
+        "source": "International Journal of Mental Health and Addiction",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s11469-025-01517-y",
+        "url": "https://www.scopus.com/pages/publications/105009057341?origin=resultslist",
+        "eid": "2-s2.0-105009057341"
+      },
+      {
+        "title": "The Bidirectional Relationship Between Internalizing Problems and Problematic Social Media Use Among Adolescents and Young Adults: Longitudinal Mediation of Different Executive Function Subcomponents",
+        "authors": "Xu W.; Shen X.; Wang J.-L.",
+        "year": 2026,
+        "source": "Journal of Adolescence",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1002/jad.70221",
+        "url": "https://www.scopus.com/pages/publications/105043902937?origin=resultslist",
+        "eid": "2-s2.0-105043902937"
+      },
+      {
+        "title": "Cross-cultural validation of the Weight Stigma Exposure Inventory (WeSEI): secondary data analysis from Taiwan, China, Hong Kong, Indonesia, Türkiye, and Malaysia",
+        "authors": "Fan C.-W.; Ruckwongpatr K.; Lin I.-C.; Chen I.-H.; Chen J.-K.; Nurmala I.; Muthmainnah M.; Gan W.Y.; Üztemur S.; Chang Y.-L.; Lin C.-C.; Christensen J.R.; Bevan N.; Griffiths M.D.; Pakpour A.H.; Lin C.-Y.",
+        "year": 2026,
+        "source": "Journal of Eating Disorders",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1186/s40337-025-01480-y",
+        "url": "https://www.scopus.com/pages/publications/105028123835?origin=resultslist",
+        "eid": "2-s2.0-105028123835"
+      },
+      {
+        "title": "Exploring how weight stigma relates to psychological distress, physical activity, and eating behaviors over time: a longitudinal study among young adults in Hong Kong",
+        "authors": "Fung X.C.C.; Siu A.M.H.; Ye J.; Chen J.-H.; Chen J.-S.; Bevan N.; Griffiths M.D.; Lin C.-Y.; Lau B.W.M.",
+        "year": 2026,
+        "source": "Journal of Eating Disorders",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1186/s40337-026-01525-w",
+        "url": "https://www.scopus.com/pages/publications/105029880093?origin=resultslist",
+        "eid": "2-s2.0-105029880093"
+      },
+      {
+        "title": "Eating profiles and health among African Americans with serious mental illness who are overweight",
+        "authors": "Qin S.; Sheehan L.; Parson R.; Tseng Y.C.; Talluri S.S.",
+        "year": 2026,
+        "source": "Journal of Health Psychology",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1177/13591053261427208",
+        "url": "https://www.scopus.com/pages/publications/105033831473?origin=resultslist",
+        "eid": "2-s2.0-105033831473"
+      },
+      {
+        "title": "The relationship between adolescents’ body ımage, social appearance anxiety, and motivation to participate in physical activity: A cross-sectional study",
+        "authors": "Üstündağ A.; Kurtkaya K.; Zaman Ö.",
+        "year": 2026,
+        "source": "Journal of Health Psychology",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1177/13591053251409898",
+        "url": "https://www.scopus.com/pages/publications/105029291223?origin=resultslist",
+        "eid": "2-s2.0-105029291223"
+      },
+      {
+        "title": "The association between problematic media use, sleep disturbances, and enuresis in children",
+        "authors": "Arslan Alıcı Ç.; Erdoğan E.G.",
+        "year": 2026,
+        "source": "Journal of Pediatric Urology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.jpurol.2026.105954",
+        "url": "https://www.scopus.com/pages/publications/105036704652?origin=resultslist",
+        "eid": "2-s2.0-105036704652"
+      },
+      {
+        "title": "Visual moralization of conflict on TikTok: A typology of journalistic framing",
+        "authors": "Abbas L.; ElShabassy A.K.; Fahmy S.S.",
+        "year": 2026,
+        "source": "Media, War and Conflict",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1177/17506352261446076",
+        "url": "https://www.scopus.com/pages/publications/105040072870?origin=resultslist",
+        "eid": "2-s2.0-105040072870"
+      },
+      {
+        "title": "Is agreement with the statement “obesity is a disease” helpful or harmful? Insights from a National cross-sectional survey",
+        "authors": "Elran-Barak R.; Sagi-Dain L.",
+        "year": 2026,
+        "source": "Obesity Research and Clinical Practice",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1016/j.orcp.2026.06.007",
+        "url": "https://www.scopus.com/pages/publications/105043688978?origin=resultslist",
+        "eid": "2-s2.0-105043688978"
+      },
+      {
+        "title": "Modelling the associations between faculty support and academic satisfaction among nursing students: Mediating roles of sleep problems and smartphone addiction",
+        "authors": "Ninnoni J.P.K.; Ijere I.N.; Commey I.T.; Amoadu M.",
+        "year": 2026,
+        "source": "PLOS Mental Health",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1371/journal.pmen.0000504",
+        "url": "https://www.scopus.com/pages/publications/105034161490?origin=resultslist",
+        "eid": "2-s2.0-105034161490"
+      },
+      {
+        "title": "Development and validation of the Lebanese Social Media Dependency Scale (LSMDS): A cross-sectional study among university students",
+        "authors": "Younes S.; Abbas Z.; Haddad C.; Saade D.; Mourad N.; Sacre H.; Al-Hajje A.; Salameh P.",
+        "year": 2026,
+        "source": "PLOS ONE",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1371/journal.pone.0344535",
+        "url": "https://www.scopus.com/pages/publications/105037426049?origin=resultslist",
+        "eid": "2-s2.0-105037426049"
+      },
+      {
+        "title": "Measurement of Tendency to Avoid Physical Activity and Sport in University Students: An Adaptation Study",
+        "authors": "KORKMAZ E.; UÇAR-YILDIZER D.E.; ATAŞ-SARIÇAM E.; YILDIZER G.; ÇEVİK H.; O’BRIEN K.",
+        "year": 2026,
+        "source": "Pamukkale Journal of Sport Sciences",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.54141/psbd.1713635",
+        "url": "https://www.scopus.com/pages/publications/105041617326?origin=resultslist",
+        "eid": "2-s2.0-105041617326"
+      },
+      {
+        "title": "The Relationships Among Fear of Missing Out, Problematic Social Media Use, Alexithymia, and Psychiatric Symptoms in Adolescents Attending Psychiatric Outpatient Clinics",
+        "authors": "Serdengeçti N.; Can Aydın A.B.; Yavuz M.",
+        "year": 2026,
+        "source": "Perspectives in Psychiatric Care",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1155/ppc/9953473",
+        "url": "https://www.scopus.com/pages/publications/105035005712?origin=resultslist",
+        "eid": "2-s2.0-105035005712"
+      },
+      {
+        "title": "The Use of Eye-Tracking and VR in ADHD Treatment - Current Applications and Public Awareness",
+        "authors": "Yin J.; Zhang J.; Lawton H.; Gillies M.; Super H.; Pan X.",
+        "year": 2026,
+        "source": "Proceedings - 2026 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VRW 2026",
+        "documentType": "Conference paper",
+        "publicationStage": "Final",
+        "doi": "10.1109/VRW70859.2026.00023",
+        "url": "https://www.scopus.com/pages/publications/105038753038?origin=resultslist",
+        "eid": "2-s2.0-105038753038"
+      },
+      {
+        "title": "From Quest for Significance to Social Media Addiction: The Mediating Role of Boredom and the Moderating Role of Age in a Spanish Sample",
+        "authors": "Tagliaferri G.; Cricenti C.; Civera-Antony A.; González-Manzanares C.; Martí-Vilar M.",
+        "year": 2026,
+        "source": "Psychiatry International",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.3390/psychiatryint7030107",
+        "url": "https://www.scopus.com/pages/publications/105042971015?origin=resultslist",
+        "eid": "2-s2.0-105042971015"
+      },
+      {
+        "title": "Loneliness and problematic social media use among university students: exploring the mediating roles of meaning in life and resilience",
+        "authors": "Çiçek İ.; Ünsal F.; Korkmaz Z.",
+        "year": 2026,
+        "source": "Psychology, Health and Medicine",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1080/13548506.2025.2581894",
+        "url": "https://www.scopus.com/pages/publications/105020585252?origin=resultslist",
+        "eid": "2-s2.0-105020585252"
+      },
+      {
+        "title": "How two AI models depict ageing: a cross-cultural analysis of ChatGPT and Doubao",
+        "authors": "Zhong X.",
+        "year": 2026,
+        "source": "Social Semiotics",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/10350330.2026.2686256",
+        "url": "https://www.scopus.com/pages/publications/105041670320?origin=resultslist",
+        "eid": "2-s2.0-105041670320"
+      },
+      {
+        "title": "Factors Affecting Tax Compliance in the Digital Age: A Study Using Uses and Gratifications Theory",
+        "authors": "Alshrouf M.; Sara A.A.; Al-Hammouri M.; Al-Sabarnah K.; Maseef S.; Mansour A.",
+        "year": 2026,
+        "source": "Studies in Computational Intelligence",
+        "documentType": "Book chapter",
+        "publicationStage": "Final",
+        "doi": "10.1007/978-3-032-23897-9_58",
+        "url": "https://www.scopus.com/pages/publications/105039554348?origin=resultslist",
+        "eid": "2-s2.0-105039554348"
+      },
+      {
+        "title": "Multimodal Affective Communication Analysis: Integrating Text Sentiment with Speech Emotion using Transfer Learning",
+        "authors": "Kumar P.; Agrawal K.K.; Dwivedi N.",
+        "year": 2025,
+        "source": "2025 IEEE 14th International Conference on Communication Systems and Network Technologies, CSNT 2025",
+        "documentType": "Conference paper",
+        "publicationStage": "Final",
+        "doi": "10.1109/CSNT64827.2025.10967591",
+        "url": "https://www.scopus.com/pages/publications/105004556110?origin=resultslist",
+        "eid": "2-s2.0-105004556110"
+      },
+      {
+        "title": "Exploring the Impact of Algorithmic Bias on Information Access and User Behavior in Web Search",
+        "authors": "Salman M.; Khan S.; Bhutada S.",
+        "year": 2025,
+        "source": "2025 International Conference on Engineering Innovations and Technologies, ICoEIT 2025",
+        "documentType": "Conference paper",
+        "publicationStage": "Final",
+        "doi": "10.1109/ICoEIT63558.2025.11211699",
+        "url": "https://www.scopus.com/pages/publications/105025017160?origin=resultslist",
+        "eid": "2-s2.0-105025017160"
+      },
+      {
+        "title": "Ethical frameworks in artificial intelligence for education: A systematic review and practical insights through bibliometric analysis",
+        "authors": "Al Eisaei M.; Jubran A.M.; Mohamed Adnan M.A.; Al Qurri H.S.H.",
+        "year": 2025,
+        "source": "AI in Education, Governance, and Leadership: Adoption, Impact, and Ethics",
+        "documentType": "Book chapter",
+        "publicationStage": "Final",
+        "doi": "10.4018/979-8-3373-5550-4.ch006",
+        "url": "https://www.scopus.com/pages/publications/105012913009?origin=resultslist",
+        "eid": "2-s2.0-105012913009"
+      },
+      {
+        "title": "A mediation and moderation model for life satisfaction: The role of social support, psychological resilience, and gender",
+        "authors": "Hanimoğlu E.",
+        "year": 2025,
+        "source": "Acta Psychologica",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.actpsy.2025.105360",
+        "url": "https://www.scopus.com/pages/publications/105011833582?origin=resultslist",
+        "eid": "2-s2.0-105011833582"
+      },
+      {
+        "title": "Bahasa Indonesia version of Weight Stigma Exposure Inventory (WeSEI): Translation and validation among young adults",
+        "authors": "Ruckwongpatr K.; Su J.-A.; Chen I.-H.; Bevan N.; Nurmala I.; Muthmainnah M.; Salim L.A.; Nadia A.; Aljaberi M.A.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Acta Psychologica",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.actpsy.2025.105748",
+        "url": "https://www.scopus.com/pages/publications/105018879956?origin=resultslist",
+        "eid": "2-s2.0-105018879956"
+      },
+      {
+        "title": "Understanding problematic TikTok use: Cognitive absorption, nomophobia, and life stress",
+        "authors": "Hou A.C.Y.; Pham Thi T.D.; Hou X.",
+        "year": 2025,
+        "source": "Acta Psychologica",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.actpsy.2025.105536",
+        "url": "https://www.scopus.com/pages/publications/105015185338?origin=resultslist",
+        "eid": "2-s2.0-105015185338"
+      },
+      {
+        "title": "Using Moderated Mediation Modelling and the Interaction of Person-Affect-Cognition-Execution Model to Explore Relationships between Psychological Distress, Specific Addictive Behaviors, and Quality of Life across Taiwan, Malaysia, Hong Kong, and China",
+        "authors": "Huang Y.-T.; Huang P.-C.; Hou W.-L.; Aljaberi M.A.; Gan W.Y.; Tung S.E.H.; Chen J.-K.; Chen I.-H.; Siaw Y.-L.; Huang S.-W.; Chen J.-S.; Lee K.-H.; Yu R.-L.; Demetrovics Z.; Potenza M.N.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Applied Research in Quality of Life",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s11482-025-10495-1",
+        "url": "https://www.scopus.com/pages/publications/105013811028?origin=resultslist",
+        "eid": "2-s2.0-105013811028"
+      },
+      {
+        "title": "Examining the effects of implicit and internalized weight bias on physical activity cognitions for women in larger bodies",
+        "authors": "Jabbar J.; Ori E.; Gammage K.; Dagenais M.; Locke S.",
+        "year": 2025,
+        "source": "Body Image",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.bodyim.2025.101995",
+        "url": "https://www.scopus.com/pages/publications/105021264642?origin=resultslist",
+        "eid": "2-s2.0-105021264642"
+      },
+      {
+        "title": "Stress-coping mechanisms and problematic social media use: A network analysis and differences across men and women",
+        "authors": "Conkey-Morrison C.; Zarate D.; March E.; Hunt B.; Stavropoulos V.",
+        "year": 2025,
+        "source": "Computers in Human Behavior Reports",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.chbr.2025.100848",
+        "url": "https://www.scopus.com/pages/publications/105021009717?origin=resultslist",
+        "eid": "2-s2.0-105021009717"
+      },
+      {
+        "title": "The role of physical activity avoidance and loneliness in physical activity participation among adolescents: A cross-lagged mediation analysis",
+        "authors": "Yi J.; Fang C.-Y.; Chen I.-H.; Lin Y.-C.; Hou W.-L.; Aljaberi M.A.; Lai Y.-C.; Chen J.-S.; Lin I.-C.; Griffiths M.D.; Lin C.-Y.; Huang P.-C.",
+        "year": 2025,
+        "source": "Current Psychology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1007/s12144-025-08339-0",
+        "url": "https://www.scopus.com/pages/publications/105015200914?origin=resultslist",
+        "eid": "2-s2.0-105015200914"
+      },
+      {
+        "title": "Psychometric Properties and Measurement Invariance of Video Addiction Scales: The Chinese YouTube Addiction Scale for Taiwan and Hong Kong",
+        "authors": "Huang P.-C.; Chen C.-Y.; Chen I.-H.; Chen J.-K.; Pramukti I.; Yu R.-L.; Chen J.-S.; Huang C.H.; Wang X.-L.; Pakpour A.H.; Potenza M.N.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Cyberpsychology, Behavior, and Social Networking",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1177/21522715251378312",
+        "url": "https://www.scopus.com/pages/publications/105020079028?origin=resultslist",
+        "eid": "2-s2.0-105020079028"
+      },
+      {
+        "title": "Life satisfaction in emerging adulthood: a longitudinal study of social support, resilience, and gender differences",
+        "authors": "Hanımoğlu E.",
+        "year": 2025,
+        "source": "Frontiers in Psychology",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.3389/fpsyg.2025.1602140",
+        "url": "https://www.scopus.com/pages/publications/105012963434?origin=resultslist",
+        "eid": "2-s2.0-105012963434"
+      },
+      {
+        "title": "Psychometric Validation of the Digital Life Balance Scale in Urdu and Its Relationship With Life Satisfaction, Social Media Addiction, and Internet Addiction",
+        "authors": "Malas O.; Khan M.; Zubair A.; Guazzini A.; Duradoni M.",
+        "year": 2025,
+        "source": "Human Behavior and Emerging Technologies",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1155/hbe2/7873343",
+        "url": "https://www.scopus.com/pages/publications/105012599457?origin=resultslist",
+        "eid": "2-s2.0-105012599457"
+      },
+      {
+        "title": "Psychometric Evaluation of the Malay Version of Weight Stigma Exposure Inventory (WeSEI) Among Malaysian Young Adults",
+        "authors": "Ying Gan W.; Chen I.-H.; Tung S.E.H.; Huang R.-Y.; Poon W.C.; Siaw Y.-L.; Li W.; Chen J.-S.; O’Brien K.M.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Inquiry (United States)",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1177/00469580251339395",
+        "url": "https://www.scopus.com/pages/publications/105005818212?origin=resultslist",
+        "eid": "2-s2.0-105005818212"
+      },
+      {
+        "title": "The Role of Artificial Intelligence in Misinformation: Study of Selected Indian Metropolitan Cities",
+        "authors": "Needhipathi J.J.; Kumar S.; Karim S.",
+        "year": 2025,
+        "source": "International Conference on Advanced Computing Technologies, ICoACT 2025",
+        "documentType": "Conference paper",
+        "publicationStage": "Final",
+        "doi": "10.1109/ICoACT63339.2025.11005340",
+        "url": "https://www.scopus.com/pages/publications/105010174636?origin=resultslist",
+        "eid": "2-s2.0-105010174636"
+      },
+      {
+        "title": "Association between Mental Distress and Weight-Related Self-Stigma via Problematic Social Media and Smartphone Use among Malaysian University Students: An Application of the Interaction of Person-Affect-Cognition-Execution (I-PACE) Model",
+        "authors": "Gan W.Y.; Chin W.-L.; Huang S.-W.; Tung S.E.H.; Lee L.J.; Poon W.C.; Siaw Y.L.; O’brien K.S.; Pramukti I.; Ruckwongpatr K.; Chen J.-S.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.060049",
+        "url": "https://www.scopus.com/pages/publications/105003614131?origin=resultslist",
+        "eid": "2-s2.0-105003614131"
+      },
+      {
+        "title": "Determining Dynamic Influence of Human and Machine System on Live-Streaming Addiction: Critical Mediating Mechanisms of Emotional and Functional Attachment",
+        "authors": "Pang H.; Jin X.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.070803",
+        "url": "https://www.scopus.com/pages/publications/105025096495?origin=resultslist",
+        "eid": "2-s2.0-105025096495"
+      },
+      {
+        "title": "Psychometric Properties of the Thai Version of the Weight Stigma Exposure Inventory (WeSEI)",
+        "authors": "Wang Y.-C.; Ruckwongpatr K.; Jankaew A.; Pimsen A.; Paratthakonkun C.; Chen I.-H.; Chen J.-S.; Tsai H.-C.; Bevan N.; Lin C.-Y.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.071081",
+        "url": "https://www.scopus.com/pages/publications/105025219386?origin=resultslist",
+        "eid": "2-s2.0-105025219386"
+      },
+      {
+        "title": "Relationship between Chinese Medical Students’ Perceived Stress and Short-Form Video Addiction: A Perspective Based on the Multiple Theoretical Frameworks",
+        "authors": "Zhang Z.-Y.; Wu Y.; Deng C.; Wang P.; Nong W.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.070883",
+        "url": "https://www.scopus.com/pages/publications/105020918094?origin=resultslist",
+        "eid": "2-s2.0-105020918094"
+      },
+      {
+        "title": "Social Media Addiction, Perceived Social Support, Sleep Disorder, and Job Performance in Healthcare Professionals: Testing a Moderated Mediation Model",
+        "authors": "Kaya A.; Seyrek E.; Sarıgül A.; Şata M.; Gómez-Salgado J.; Yıldırım M.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.067388",
+        "url": "https://www.scopus.com/pages/publications/105015107013?origin=resultslist",
+        "eid": "2-s2.0-105015107013"
+      },
+      {
+        "title": "Specific Internet-Use Disorders among Indonesian College Students: Psychometric Evaluation of the Assessment of Criteria for Specific Internet-Use Disorders (ACSID-11)",
+        "authors": "Nadhiroh S.R.; Nurmala I.; Pramukti I.; Ruckwongpatr K.; Tyas L.W.; Zari A.P.; Islamiah W.E.; Siaw Y.-L.; Potenza M.N.; Lin C.-Y.",
+        "year": 2025,
+        "source": "International Journal of Mental Health Promotion",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.32604/ijmhp.2025.072115",
+        "url": "https://www.scopus.com/pages/publications/105026608607?origin=resultslist",
+        "eid": "2-s2.0-105026608607"
+      },
+      {
+        "title": "Pay Attention to What Your Fingers Scroll: The Roles of Doomscrolling and Psychological Adjustment Between Adolescents’ Problematic Social Media Use and Psychological Distress",
+        "authors": "Kaya B.",
+        "year": 2025,
+        "source": "Journal of Genetic Psychology",
+        "documentType": "Article",
+        "publicationStage": "Article in press",
+        "doi": "10.1080/00221325.2025.2584991",
+        "url": "https://www.scopus.com/pages/publications/105021262577?origin=resultslist",
+        "eid": "2-s2.0-105021262577"
+      },
+      {
+        "title": "Prevalence, motivation, psychological distress, and gender differences of problematic social media use among Chinese college students",
+        "authors": "Li M.; Hao Y.; Wang Y.; Morris R., III; Wang X.; Liu T.; Chen S.; Moretta T.",
+        "year": 2025,
+        "source": "Journal of Psychiatric Research",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1016/j.jpsychires.2025.09.056",
+        "url": "https://www.scopus.com/pages/publications/105018105764?origin=resultslist",
+        "eid": "2-s2.0-105018105764"
+      },
+      {
+        "title": "Indonesian Validation of the YouTube Addiction Scale Among Young Adults",
+        "authors": "Ruckwongpatr K.; Nurmala I.; Muthmainnah M.; Salim L.A.; Nadia A.; Devi Y.P.; Hsieh G.-J.; Lin Y.-C.; Pramukti I.; Chen C.-Y.; Pakpour A.H.; Griffiths M.D.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Psychiatry Investigation",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.30773/pi.2025.0081",
+        "url": "https://www.scopus.com/pages/publications/105018946014?origin=resultslist",
+        "eid": "2-s2.0-105018946014"
+      },
+      {
+        "title": "The mediating effect of nomophobia in the relationship between problematic social media use/problematic smartphone use and psychological distress among university students",
+        "authors": "Tung S.E.H.; Gan W.Y.; Poon W.C.; Lee L.J.; Ruckwongpatr K.; Kukreti S.; Griffiths M.D.; Pakpour A.H.; Lin C.-Y.",
+        "year": 2025,
+        "source": "Psychology, Health and Medicine",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1080/13548506.2025.2478516",
+        "url": "https://www.scopus.com/pages/publications/105003891000?origin=resultslist",
+        "eid": "2-s2.0-105003891000"
+      },
+      {
+        "title": "Social media burnout and social anxiety as antecedents of discontinuous usage in the stressor-strain-outcome framework",
+        "authors": "Üztemur S.; Lin C.-Y.; Gökalp A.; Kartol A.; Avcı G.; Pakpour A.H.",
+        "year": 2025,
+        "source": "Scientific Reports",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.1038/s41598-025-04119-9",
+        "url": "https://www.scopus.com/pages/publications/105010008930?origin=resultslist",
+        "eid": "2-s2.0-105010008930"
+      },
+      {
+        "title": "Instagram’s Role in Driving Outdoor Tourism",
+        "authors": "Ferreira J.; Cardim S.; Scalabrini E.; Vaz R.; Fernandes P.O.",
+        "year": 2025,
+        "source": "Smart Innovation, Systems and Technologies",
+        "documentType": "Conference paper",
+        "publicationStage": "Final",
+        "doi": "10.1007/978-981-96-5400-0_29",
+        "url": "https://www.scopus.com/pages/publications/105018799848?origin=resultslist",
+        "eid": "2-s2.0-105018799848"
+      },
+      {
+        "title": "Use of social networks in motivation and physical activity levels among untrained Filipino gen z young adults; [Uso de las redes sociales en la motivación y los niveles de actividad física entre jóvenes adultos filipinos de la Generación Z sin entrenamiento]",
+        "authors": "Antonio A.",
+        "year": 2025,
+        "source": "Sportis: Scientific Technical Journal of School Sport, Physical Education and Psychomotricity",
+        "documentType": "Article",
+        "publicationStage": "Final",
+        "doi": "10.17979/sportis.2025.11.3.11916",
+        "url": "https://www.scopus.com/pages/publications/105010238453?origin=resultslist",
+        "eid": "2-s2.0-105010238453"
+      },
+      {
+        "title": "Introduction to brand management in the digital age",
+        "authors": "Patel P.; Kaur J.",
+        "year": 2025,
+        "source": "Strategic Brand Management in the Age of AI and Disruption",
+        "documentType": "Book chapter",
+        "publicationStage": "Final",
+        "doi": "10.4018/979-8-3693-9461-8.ch001",
+        "url": "https://www.scopus.com/pages/publications/85219569251?origin=resultslist",
+        "eid": "2-s2.0-85219569251"
+      }
+    ],
+    "methodNote": "Citation links are summed from the Scopus Cited by counts in the supplied JSOMER article export. Citing documents are unique Scopus records in the supplied citing-document export. One citing document may cite more than one JSOMER article."
   }
 }
