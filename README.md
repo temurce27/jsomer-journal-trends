@@ -1,5 +1,17 @@
-# JSOMER Journal Trends — Premium Academic Editorial Design
+# JSOMER Journal Trends — Final WoS and Scopus Dashboard
 
-Upload `index.html`, `styles.css`, and `script.js` to the repository root. Upload `journal-data.json` inside the existing `data` folder.
+This package preserves the existing publication, readership, international authorship, Web of Science, peer-review, publishing-model, and methodology content. It adds a complete Scopus section after Web of Science and adds Average citations per published article for both databases.
 
-The redesign places Web of Science citation reach in the hero area and again as the first full analytical section. It preserves the verified OJS, WoS, and aggregate peer-review data.
+## Verified calculations
+- Published JSOMER articles: 50
+- Web of Science citation links: 137
+- Average WoS citations per published article: 137 / 50 = 2.74
+- Scopus citation links: 135
+- Average Scopus citations per published article: 135 / 50 = 2.70
+- Average WoS citations per cited article: 137 / 20 = 6.85
+- Average Scopus citations per cited article: 135 / 22 = 6.14
+
+## Upload
+Upload `index.html`, `styles.css`, and `script.js` to the repository root. Replace `data/journal-data.json` with the supplied final file. Existing GitHub Pages deployment settings can remain unchanged.
+
+The original CSV exports are included in `source-data/` for internal verification only; they do not need to be uploaded to the public repository.

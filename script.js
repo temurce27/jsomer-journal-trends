@@ -6,6 +6,24 @@ const editorialList=(items,mode)=>items.map(x=>{const meta=mode==='wos'?`${x.yea
 const svgArea=t=>{const W=1000,H=280,p=28,max=Math.max(...t.views,...t.downloads,1),pts=a=>a.map((v,i)=>`${p+i*(W-2*p)/(a.length-1)},${H-p-v*(H-2*p)/max}`).join(' '),viewPts=pts(t.views),downPts=pts(t.downloads),labels=t.labels.map((l,i)=>i%3===0?`<text x="${p+i*(W-2*p)/(t.labels.length-1)}" y="275" text-anchor="middle" font-size="9" fill="#788690">${l}</text>`:'').join('');return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Monthly views and PDF file requests"><defs><linearGradient id="viewFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#176b87" stop-opacity=".28"/><stop offset="1" stop-color="#176b87" stop-opacity="0"/></linearGradient></defs><polygon points="${p},${H-p} ${viewPts} ${W-p},${H-p}" fill="url(#viewFill)"/><polyline points="${viewPts}" fill="none" stroke="#176b87" stroke-width="4" vector-effect="non-scaling-stroke"/><polyline points="${downPts}" fill="none" stroke="#d9a441" stroke-width="3" vector-effect="non-scaling-stroke"/>${labels}</svg>`};
 fetch('data/journal-data.json').then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
  const w=d.wos,p=d.peerReview;
+ const s=d.scopus;
+ const dec=n=>new Intl.NumberFormat('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}).format(n);
+ [['wosTotalCitations',w.citationLinks],['wosCitedArticles',w.citedJsomerArticles]].forEach(([id,v])=>document.getElementById(id).textContent=fmt(v));
+ document.getElementById('wosAvgPublished').textContent=dec(w.averageCitationsPerPublishedArticle);
+ document.getElementById('wosAvgCited').textContent=dec(w.averageCitationsPerCitedArticle);
+ [['scopusTotalCitations',s.citationLinks],['scopusCitedArticles',s.citedJsomerArticles]].forEach(([id,v])=>document.getElementById(id).textContent=fmt(v));
+ document.getElementById('scopusAvgPublished').textContent=dec(s.averageCitationsPerPublishedArticle);
+ document.getElementById('scopusAvgCited').textContent=dec(s.averageCitationsPerCitedArticle);
+ document.getElementById('scopusYearColumns').innerHTML=columnChart(s.citingDocumentsByYear,'year','documents');
+ document.getElementById('scopusTypeChart').innerHTML=slimBars(s.documentTypes,'type','documents');
+ document.getElementById('scopusSourceChart').innerHTML=slimBars(s.topCitingSources,'source','documents');
+ document.getElementById('scopusTopArticles').innerHTML=s.mostCitedArticles.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a><span class="meta">${x.year} · ${fmt(x.citations)} Scopus citation${x.citations===1?'':'s'}</span></li>`).join('');
+ const scopusBody=document.getElementById('scopusCitingTable');
+ const renderScopus=items=>{scopusBody.innerHTML=items.map(x=>`<tr><td>${x.year}</td><td><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a><small>${esc(x.authors)}</small></td><td>${esc(x.source)}</td><td>${esc(x.documentType)}<small>${esc(x.publicationStage)}</small></td><td><a class="record-pill" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">Open</a></td></tr>`).join('')};
+ renderScopus(s.citingDocuments);
+ document.getElementById('scopusSearch').addEventListener('input',e=>{const q=e.target.value.trim().toLocaleLowerCase();renderScopus(!q?s.citingDocuments:s.citingDocuments.filter(x=>[x.title,x.authors,x.source,x.year,x.documentType].join(' ').toLocaleLowerCase().includes(q)))});
+ document.getElementById('scopusNote').textContent=s.methodNote;
+
  document.getElementById('updated').textContent=`Data updated ${d.meta.dataUpdated} · Coverage: ${d.meta.coverage}`;document.getElementById('footerDate').textContent=`Updated ${d.meta.dataUpdated}`;
  [['heroCitations',w.citationLinks],['heroCitingDocs',w.uniqueCitingDocuments],['heroCitedArticles',w.citedJsomerArticles],['heroCitingJournals',w.citingSourceJournals],['heroCitingCountries',w.countriesRegions]].forEach(([id,v])=>document.getElementById(id).textContent=fmt(v));
  const primary=[['Published articles',d.summary.articlesPublished],['WoS citation links',w.citationLinks],['Article views',d.summary.articleViews],['PDF file requests',d.summary.pdfDownloads]];document.getElementById('primaryStats').innerHTML=primary.map(([l,v])=>`<div class="stat"><strong>${fmt(v)}</strong><span>${l}</span></div>`).join('');
